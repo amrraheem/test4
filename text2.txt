@@ -1,2 +1,4 @@
 This is a second text file.
 thanks
+
+# This is an update for this text file
